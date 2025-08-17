@@ -1,0 +1,39 @@
+question 94-diagram
+question 96-diagram
+question 100-equation
+question 102-options
+108-graphs
+109-arrows
+120-graph
+chemistry--------------------
+154
+maths---------------
+17 vectors
+50-matrix
+54-matrix
+60-matix
+63-vectors
+73-vactors
+------------------------------------------------------------------------------------
+shift -23
+----------------chemistry----------
+122-graph
+131-options 
+146-question-graphs
+152-compound diagram
+154-equation
+physics -------------------------
+92
+105 circuit
+112-figure
+118-figure
+119-options
+maths------
+22,
+29
+43
+46
+68
+69
+72
+79

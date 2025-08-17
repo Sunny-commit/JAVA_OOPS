@@ -1,0 +1,20 @@
+<html>
+<head>
+<script>//or<script="external.js">here js is in another file including only the function display data
+function display()
+{
+	document.getElementById("display").innerHTML="script included in head tag"
+}
+</script>
+</head>
+<body>
+<script>
+function display()
+{
+	document.getElementById("display").innerHTML="script included in body tag"
+}
+</script>
+<h1 id="display">demonstration of java script</h1>
+<button type="button" onclick="display()">click me</button>
+</body>
+</html>
